@@ -22,7 +22,7 @@ Demo
 
       Message :- "Hello"
       Cipher shift value :- 12
-      Encrypted Message :- 84 113 120 120 1232
+      Encrypted Message :- 84 113 120 120 123
 
 Things that learn in this project
 
